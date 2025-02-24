@@ -1,0 +1,4 @@
+Hello, this is a sample binary file.
+It contains text encoded in UTF-8.
+Special characters: €, ₹, ©, ®, ™
+End of file.
